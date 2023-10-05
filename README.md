@@ -2,7 +2,10 @@
 
 Final Year Project (FYP) for Asia Pacific University done by Chan Hiang Hao.
 
+
+Problem Statement:
 ![Problem Statements](https://github.com/chanhh01/FlyTranslate/assets/84566394/8cd8002e-e494-4862-8194-4e2df3a84d50)
+
 
 Main deliverables:
 1. Scan device screen and extract text using OCR, used [EasyOCR](https://github.com/JaidedAI/EasyOCR).

@@ -41,6 +41,6 @@ To try it out yourself:
 2. Make sure you have MySQL installed.
 3. Execute db_schema_for_fyp.sql in MySQL (you may modify the database name).
 4. Import language_list.sql in MySQL and make sure to select the chosen database name.
-5. Modify [mysql_config.py](https://github.com/JaidedAI/EasyOCR) to connect to your database.
-6. Modify [repository/email_repo.py](https://github.com/JaidedAI/EasyOCR) to change email sender and email password credentials. [Kindly follow this tutorial to set up a new email for this context](https://www.youtube.com/watch?v=zxFXnLEmnb4).
+5. Modify [mysql_config.py](https://github.com/chanhh01/FlyTranslate/blob/master/mysql_config.py) to connect to your database.
+6. Modify [repository/email_repo.py](https://github.com/chanhh01/FlyTranslate/blob/master/repository/email_repo.py) to change email sender and email password credentials. [Kindly follow this tutorial to set up a new email for this context](https://www.youtube.com/watch?v=zxFXnLEmnb4).
 7. Run main.py.

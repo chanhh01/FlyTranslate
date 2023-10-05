@@ -34,3 +34,13 @@ Future enhancements in mind:
 1. Find a way to pipeline processes on cloud - utilize higher computational speed to reduce core feature processing time, addressing limitation number 5.
 2. Crowdsource open-source community - to build multi-language OCR that is capable of addressing limitation number 2 and 3.
 3. Perform extensive research / receive professional training on developing win32 related functions using python to address limitation number 4.
+
+
+To try it out yourself:
+1. Download the project folder.
+2. Make sure you have MySQL installed.
+3. Execute db_schema_for_fyp.sql in MySQL (you may modify the database name).
+4. Import language_list.sql in MySQL and make sure to select the chosen database name.
+5. Modify [mysql_config.py](https://github.com/JaidedAI/EasyOCR) to connect to your database.
+6. Modify [repository/email_repo.py](https://github.com/JaidedAI/EasyOCR) to change email sender and email password credentials. [Kindly follow this tutorial to set up a new email for this context](https://www.youtube.com/watch?v=zxFXnLEmnb4).
+7. Run main.py.

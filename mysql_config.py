@@ -2,7 +2,7 @@ import mysql.connector
 
 conn = None
 
-
+# Configurations hidden for safety
 def setup_mysql():
     global conn
 
@@ -10,7 +10,7 @@ def setup_mysql():
         print('setting up mysql connection...')
         config = {
             'user': 'root',
-            'password': '428493',
+            'password': 'pass',
             'host': 'localhost',
             'database': 'flytranslate'
         }

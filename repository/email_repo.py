@@ -9,7 +9,7 @@ from repository import messagebox_repo
 def send_otp_to_target_email(email, otp):
     try:
         email_sender = 'flytranslate123@gmail.com'
-        email_pass = 'mujd vvrq bbkg gjme'
+        email_pass = 'token placeholder'
         email_receiver = email
 
         subject = "Verify your email"
@@ -42,7 +42,7 @@ def send_otp_to_target_email(email, otp):
 def reply_feedback_by_email(email, subject, content):
     try:
         email_sender = 'flytranslate123@gmail.com'
-        email_pass = 'mujd vvrq bbkg gjme'
+        email_pass = 'token placeholder'
         email_receiver = email
 
         subject = subject

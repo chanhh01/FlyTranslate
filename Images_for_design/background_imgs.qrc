@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="backgournds">
+    <file>FlyTranslate-logo/background_image.png</file>
+    <file>FlyTranslate-logo/cover.png</file>
+    <file>FlyTranslate-logo/default.png</file>
+    <file>FlyTranslate-logo/default_without_top.png</file>
+    <file>FlyTranslate-logo/logo_only.png</file>
+    <file>FlyTranslate-logo/profile.png</file>
+    <file>FlyTranslate-logo/profile_crop.png</file>
+    <file>FlyTranslate-logo/logo_only_2.png</file>
+  </qresource>
+</RCC>

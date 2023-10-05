@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="view">
+    <file>view.png</file>
+  </qresource>
+  <qresource prefix="horizontal">
+    <file>menu.png</file>
+  </qresource>
+  <qresource prefix="individual sentence">
+    <file>text-font.png</file>
+  </qresource>
+  <qresource prefix="tips">
+    <file>information.png</file>
+  </qresource>
+  <qresource prefix="capture">
+    <file>screenshot.png</file>
+  </qresource>
+  <qresource prefix="stop_capture">
+    <file>no-stopping.png</file>
+  </qresource>
+  <qresource prefix="maximize">
+    <file>maximize.png</file>
+  </qresource>
+  <qresource prefix="minimize">
+    <file>minimize.png</file>
+  </qresource>
+  <qresource prefix="toggled">
+    <file>on-button.png</file>
+  </qresource>
+  <qresource prefix="not-toggled">
+    <file>off-button.png</file>
+  </qresource>
+  <qresource prefix="can_switch">
+    <file>swap.png</file>
+  </qresource>
+  <qresource prefix="cant_switch">
+    <file>cancel.png</file>
+  </qresource>
+  <qresource prefix="hide">
+    <file>hide.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: AndikaNewBasic-B
+font link: https://www.fontsquirrel.com/fonts/andika-basic
+font author: Sil International
+font author site: http://scripts.sil.org/
+Slogan Font: Fanwood Text.otf
+
+icon designer: guntur cahya
+icon designer link: /gunturcahya05
+        
+{"bg-gradient-0":"#01648B","bg-gradient-1":"#5BD0A4","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

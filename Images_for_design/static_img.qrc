@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="login">
+    <file>log-in (1).png</file>
+  </qresource>
+  <qresource prefix="pending">
+    <file>work-in-progress.png</file>
+  </qresource>
+  <qresource prefix="completed">
+    <file>checked.png</file>
+  </qresource>
+  <qresource prefix="log">
+    <file>log.png</file>
+  </qresource>
+  <qresource prefix="increment">
+    <file>plus.png</file>
+  </qresource>
+  <qresource prefix="decrement">
+    <file>minus-sign.png</file>
+  </qresource>
+  <qresource prefix="register">
+    <file>edit.png</file>
+  </qresource>
+  <qresource prefix="logout">
+    <file>logout.png</file>
+  </qresource>
+</RCC>

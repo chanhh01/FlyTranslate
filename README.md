@@ -15,13 +15,14 @@ Main deliverables:
 Other reference:
 [Snipping tool for cropping screen boundary inspired by](https://github.com/harupy/snipping-tool/tree/master) [harupy](https://github.com/harupy)
 
-Documents:
+Documented details (Documents and Video):
 (True existing emails are displayed in this document, kindly refrain from contacting the email addresses shown within the document, thank you.)
 
 [Link to document (Containing screenshots of user manual) >> CLICK HERE](https://cloudmails-my.sharepoint.com/:w:/g/personal/tp055637_mail_apu_edu_my/EbJZWb5KOJpOgm-Q9kTi2LgB5Wb13L3raIebHM2vqShQUw?e=aMBvq0)
 
 [Download link if the link above didnt work >> CLICK HERE](https://github.com/chanhh01/FlyTranslate/files/12816943/FYP_Doc.docx)
 
+[DEMO VIDEO >> CLICK HERE](https://cloudmails-my.sharepoint.com/:v:/g/personal/tp055637_mail_apu_edu_my/Ea9vvdbh9AxOrAAxSbwfrooBs_vc8oqWrl1Hik9kdvcgAA?e=SrM0bC)
 
 General limitations of FlyTranslate:
 1. Libraries are used instead of models (Model building for multi-lingual translation is very difficult)
